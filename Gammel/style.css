@@ -32,6 +32,11 @@ body {
     width: 100%;
 }
 
+.footer,
+.wItem {
+    box-shadow: rgb(0 0 0 / 100%) 0px 5px 15px;
+}
+
 
 /*HEADER med title og icons*/
 
